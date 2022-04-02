@@ -1,13 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a763635e.css",
-    "main.js": "/static/js/main.4d7b45a4.js",
+    "main.js": "/static/js/main.04f00b79.js",
+    "static/media/shee.jpg": "/static/media/shee.7e0d97d0344a65d2aded.jpg",
+    "static/media/uslab.jpg": "/static/media/uslab.c6a37ddffeea7cef8d0d.jpg",
+    "static/media/teacher.jpg": "/static/media/teacher.3a3ea91ff08d2cf27be0.jpg",
+    "static/media/slab.jpg": "/static/media/slab.c9573fcfd92d695ee6de.jpg",
+    "static/media/services.jpg": "/static/media/services.90548e142db835f8aea3.jpg",
+    "static/media/painter.jpg": "/static/media/painter.a62b1ef389b787d4240b.jpg",
+    "static/media/electrician.webp": "/static/media/electrician.6bd27e07fdecacddd2a1.webp",
+    "static/media/saloon.webp": "/static/media/saloon.1b7a026aaddbfe029c72.webp",
+    "static/media/catering.webp": "/static/media/catering.bdb4292bedf6bcb96c0b.webp",
+    "static/media/health.webp": "/static/media/health.c5f6659da47e3fc0425f.webp",
+    "static/media/doctor.webp": "/static/media/doctor.7bd47a2879a4cf40b201.webp",
     "index.html": "/index.html",
     "main.a763635e.css.map": "/static/css/main.a763635e.css.map",
-    "main.4d7b45a4.js.map": "/static/js/main.4d7b45a4.js.map"
+    "main.04f00b79.js.map": "/static/js/main.04f00b79.js.map"
   },
   "entrypoints": [
     "static/css/main.a763635e.css",
-    "static/js/main.4d7b45a4.js"
+    "static/js/main.04f00b79.js"
   ]
 }
